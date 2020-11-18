@@ -1,0 +1,3 @@
+@blogs.map do |blog|
+  render partial: "blog.json.jb", locals: {blog: blog}
+end

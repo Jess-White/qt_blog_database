@@ -1,0 +1,7 @@
+{
+  id: blog.id,
+  text: blog.text,
+  title: blog.title,
+  created_at: blog.created_at,
+  updated_at: blog.updated_at
+}

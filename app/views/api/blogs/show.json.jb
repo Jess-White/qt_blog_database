@@ -1,0 +1,3 @@
+blog_hash = render partial: "blog.json.jb", locals: { blog: @blog }
+
+blog_hash
